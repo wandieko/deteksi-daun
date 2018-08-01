@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Deteksi Citra Daun</string>
+    <string name="action_settings">Settings</string>
+    <string name="header">Klasifikasi Jenis Tanaman Obat</string>
+    <string name="home_mulai">Mulai</string>
+
+    <string name="title_activity_processing_options">Pilihan Proses</string>
+    <string name="histogram">Histogram</string>
+    <string name="id_canny">Deteksi Tepi</string>
+    <string name="detect_light">deteksi cahaya</string>
+    <string name="choose_option">Pilih Salah Satu</string>
+
+    <string name="title_activity_histogram">Histogram</string>
+    <string name="title_activity_detect_edges">Deteksi Tepi</string>
+    <string name="title_activity_detect_light">Deteksi Cahaya</string>
+    <!--<string name="request_permission_rationale" type="id">Akses ke galeri dubutuhkan.</string>-->
+    <!--<string name="ok">ok</string>-->
+
+    <string name="sample_image">Sempel Gambar</string>
+    <string name="pilihGambar">Pilih Gambar</string>
+</resources>
